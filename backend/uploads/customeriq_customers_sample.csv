@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,gender,age,city,country,signup_date,customer_status
+56,Aarav,Sharma,aarav.sharma@example.com,Male,28,Pune,India,2025-01-01,Active
+57,Priya,Patel,priya.patel@example.com,Female,31,Mumbai,India,2025-01-03,Active
+58,Rahul,Verma,rahul.verma@example.com,Male,35,Delhi,India,2025-01-05,Active
+59,Sneha,Mehta,sneha.mehta@example.com,Female,27,Ahmedabad,India,2025-01-08,Inactive
+60,Aditya,Singh,aditya.singh@example.com,Male,30,Bengaluru,India,2025-01-10,Active
+61,Neha,Joshi,neha.joshi@example.com,Female,26,Pune,India,2025-01-12,Active
+62,Rohan,Kapoor,rohan.kapoor@example.com,Male,33,Jaipur,India,2025-01-15,Inactive
+63,Ananya,Desai,ananya.desai@example.com,Female,29,Mumbai,India,2025-01-18,Active
+64,Vikram,Malhotra,vikram.malhotra@example.com,Male,38,Delhi,India,2025-01-20,Active
+65,Kavya,Reddy,kavya.reddy@example.com,Female,25,Hyderabad,India,2025-01-22,Active
