@@ -1,6 +1,6 @@
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
-
+from dotenv import load_dotenv
 import os
 import mysql.connector
 import pandas as pd
@@ -8,6 +8,7 @@ import io
 
 from datetime import date, datetime
 from decimal import Decimal
+load_dotenv()
 
 
 # =========================================================
